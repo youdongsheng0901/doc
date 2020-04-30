@@ -1,6 +1,6 @@
 # elasticsearch
 
-## 初始elasticsearch
+## 初识elasticsearch
 
 ### 倒排索引
 
